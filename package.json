@@ -54,8 +54,8 @@
     "staticpath": "demo/dist"
   },
   "dependencies": {
-    "commonmark": "^0.24.0",
-    "commonmark-react-renderer": "^4.2.4",
+    "commonmark": "^0.28.1",
+    "commonmark-react-renderer": "git+https://github.com/500neo/commonmark-react-renderer.git",
     "in-publish": "^2.0.0",
     "prop-types": "^15.5.1"
   },
